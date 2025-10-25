@@ -2,7 +2,7 @@
 $servername = "localhost";
 $username = "root";
 $password = "";
-$database = "coffeein"; // your database name
+$database = "coffeein_db"; // your database name
 
 $conn = new mysqli($servername, $username, $password, $database);
 
